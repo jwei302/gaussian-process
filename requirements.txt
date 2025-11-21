@@ -1,0 +1,9 @@
+numpy>=1.24.0
+matplotlib
+pandas
+seaborn
+scikit-learn>=1.3.0
+ipykernel
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
